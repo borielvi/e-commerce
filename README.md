@@ -1,5 +1,8 @@
 # Ecomerce Backend
 
+## Operation:
+https://drive.google.com/file/d/1wTMYYtfsQO1XulHq5-mTXyuAI_o2dug1/view
+
 This a backend e-commerce program that uses express and sequelize to create a fully functionaly database with APIs to corresponding database tables to see, create, update or delete data.
 
 GIVEN a functional Express.js API
